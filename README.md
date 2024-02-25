@@ -10,7 +10,7 @@ I'm passionate about crafting robust backend solutions and exploring the depths 
 - 💻 I'm comfortable working with **JavaScript** for both backend (Node.js) and frontend (React) development.
 - ☁️ I hold a certification as an **AWS Solutions Architect**, enabling me to design and implement secure, scalable, and reliable applications on the cloud.
 - 🧠 I enjoy challenging myself with algorithmic problems on [LeetCode](https://leetcode.com/amanchipk) and have a strong grasp of data structures.
-⚙️ Comfortable with containerization using Docker, orchestration with Kubernetes, and building automation pipelines using Jenkins for streamlined software delivery and scalable application deployments.
+- ⚙️ Comfortable with containerization using Docker, orchestration with Kubernetes, and building automation pipelines using Jenkins for streamlined software delivery and scalable application deployments.
 
 ## Get in Touch
 
