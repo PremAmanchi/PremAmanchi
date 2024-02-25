@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi there! 👋 I'm Prem Kumar Amanchi
 
-<!--
-**PremAmanchi/PremAmanchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about crafting robust backend solutions and exploring the depths of Full Stack development. My primary focus lies in Java-based technologies, with a specialization in backend frameworks and cloud architecture. 
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently seeking opportunities as a Full Stack Developer, with a keen interest in backend development.
+- 🌱 My primary language is **Java**, and I specialize in frameworks such as **Spring** and **Spring Boot**.
+- 💼 I'm proficient in **JPA (Hibernate)**, **MVC**, and **AOP**, ensuring efficient and scalable backend systems.
+- 💻 I'm comfortable working with **JavaScript** for both backend (Node.js) and frontend (React) development.
+- ☁️ I hold a certification as an **AWS Solutions Architect**, enabling me to design and implement secure, scalable, and reliable applications on the cloud.
+- 🧠 I enjoy challenging myself with algorithmic problems on **LeetCode** and have a strong grasp of data structures.
+
+## Get in Touch
+
+- 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/premkumaramanchi/) for professional inquiries and collaborations.
+- 📧 You can also reach out to me via email at [amanchi.pk5@gmail.com](mailto:amanchi.pk5@gmail.com).
+
+Let's build something amazing together!
