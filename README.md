@@ -1,4 +1,4 @@
-# Hey, I'm Prem 👋
+# Hey, I'm Prem Kumar Amanchi👋
 
 Currently building agentic AI systems in the Generative AI space @ Amazon.
 
