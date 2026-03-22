@@ -1,6 +1,6 @@
 # Hey, I'm Prem 👋
 
-SDE @ Amazon, currently building agentic AI systems in the Generative AI space.
+Currently building agentic AI systems in the Generative AI space @ Amazon.
 
 ## Find Me
 
